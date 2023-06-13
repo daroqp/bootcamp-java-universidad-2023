@@ -1,0 +1,4 @@
+mastercard
+visa
+mercadopago
+amix
