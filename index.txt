@@ -1,3 +1,0 @@
-rama test
-desde dev
-desde procut
